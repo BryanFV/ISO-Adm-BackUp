@@ -10,7 +10,10 @@
 <h2>A. NTFS, ext4, FAT</h2>
 <p>Procedamos a dar una breve explicación acerca de cada uno de estos sistemas de archivos</p>
 <ul>
-<li> </li>
+<li><span>NTFS</span>El sistema de archivos NTFS (New Technology File System, Sistema de archivos de nueva tecnología) 
+se basa en una estructura llamada tabla maestra de archivos o MFT, la cual puede contener información detallada en los archivos. 
+Este sistema permite el uso de nombres extensos, aunque, 
+a diferencia del sistema FAT32, distingue entre mayúsculas y minúsculas.  </li>
 </ul>
 
 </body>
