@@ -1,0 +1,38 @@
+body{
+	background:#55544E;
+	color:#81F7BE;	
+}
+h1, h3{
+text-align:center;
+color:#FE2E64;
+}
+h1{
+	border: 2px #FE2E64 solid; 
+	background: #0A2A0A;
+	border-radius: 100px;
+	margin:auto;
+}
+h2{
+	border: 2px #FFEC33 solid;
+	background: white;
+	text-align:center;
+	color: black;
+}
+span{
+	color:#FE2E64;
+	
+}
+img{
+	margin: auto;
+	display: block;
+	border-radius: 30px;
+	padding: 10px;
+	background: #81F7BE;
+	color:black;
+}
+ul{
+	list-style: none;
+}
+hr{
+	border: 1px #FF0040 solid ;
+}
